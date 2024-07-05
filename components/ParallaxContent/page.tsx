@@ -23,8 +23,8 @@ const TextParallaxContent = () => {
       </ParallaxContent>
       <ParallaxContent
         imgUrl="https://images.unsplash.com/photo-1515343480029-43cdfe6b6aae?q=80&w=2128&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-        subheading={`INSPIRED.`}
-        heading={`Built to impress.`}
+        subheading={`INSPIRE.`}
+        heading={`Build to impress.`}
       >
         <TextContent />
       </ParallaxContent>
