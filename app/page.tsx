@@ -1,4 +1,4 @@
-import TextParallaxContent from "@/components/ParallaxContent/page";
+import TextParallaxContent from "@/components/ParallaxContent/page.jsx";
 
 export default function Home() {
   return (
