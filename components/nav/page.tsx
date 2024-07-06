@@ -32,6 +32,7 @@ const Nav = () => {
               stiffness: 90,
             },
           }}
+          whileHover={{ y: -5, transition: { duration: 0.2 } }}
           className="text-black rounded-full px-6 bg-white/40 backdrop-blur-md flex-1 sm:flex-none py-2 md:py-0 shadow-lg"
         >
           Book a demo
@@ -48,6 +49,7 @@ const Nav = () => {
               stiffness: 90,
             },
           }}
+          whileHover={{ y: -5, transition: { duration: 0.2 } }}
           className="text-white bg-indigo-600 rounded-full px-6 flex-1 sm:flex-none py-2 md:py-0 shadow-lg"
         >
           Buy
